@@ -114,7 +114,7 @@ _Pause to play with obsidian and learn some more Markdown syntax._
 	- Once you are ready to publish the recipe, make sure you have committed all your changes, and have updated your local copy with `Fetch` and `Pull`.  If there are no conflits to resolve, you can publish with `Push`.
 
 - [Summary]
-	- Clone, Pull
+	- Clone, Pull, Merge
 
 - Fork the MILL Wiki to add some content to the Lisbon Makers Map
 	- Fork the wiki to your GitHub account at https://github.com/MILL-LX/mill-wiki
@@ -122,7 +122,7 @@ _Pause to play with obsidian and learn some more Markdown syntax._
 	- Edit the src/pages/map.md file, and add a supplier to the list.
 	- Make a commit and push it to your fork on GitHub.
 	- On on your forked repository page, go to 'Pull Requests' and make a new pull request.
-	- If your request is accepted by the original repository owner, you will receive an email notification!
+	- If your request is accepted and merged by the original repository owner, you will receive an email notification!
 
 - [STEP 6] Make your own recipe webpage
 	- On GitHub, make a new repository for your recipe, and initialize it with a README.md file.
