@@ -1,4 +1,7 @@
-# Git for Everybody - Intro to Git and GitHub for Non-Coders
+![](poster/git_for_everybody-poster.png)
+
+# Git for Everybody
+**Intro to Git and GitHub for Non-Coders**
 
 Git is a free and open-source version control tool widely used in coding and an essential tool for open-source collaboration. But it can also be used for more than just coding, empowering artistic and cultural projects by enabling greater exchange, broader publication, more flexible development and more!
 
