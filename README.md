@@ -13,7 +13,7 @@ This workshop provides a hands-on activity suitable for complete beginners.
 ## Requirements
 
 - Create a free account on GitHub prior to your attendance. You can follow the instructions here.
-- Bring a short recipe with you to add to the Food to Fork repository (github.com/tiago-rorke/food-to-fork), and as part of the workshop exercise.
+- Bring a short recipe with you to add to the Food to Fork repository ([github.com/tiago-rorke/food-to-fork](https://github.com/tiago-rorke/food-to-fork)), and as part of the workshop exercise.
 
 No prior experience with Git, Github, Markdown or coding is necessary. This is a workshop suitable for beginners.
 
@@ -44,6 +44,7 @@ No prior experience with Git, Github, Markdown or coding is necessary. This is a
 - `stash`
 - `tag`
 - `origin`
+- `main`
 - `remote`
 - `version control`
 - `source control`
@@ -61,6 +62,10 @@ https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
 
 https://drjekyllthemes.github.io/all
 
+https://jpalmer.dev/2021/05/interactive-git-history/
+
+
+(side note) [Aaron Swartz Documentary - The Internet's Own Boy](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)  
 
 ### Other Repository Services
 
@@ -71,3 +76,10 @@ sourceforge
 ### Interesting uses of Git
 
 https://github.com/solarpunklab/solarpunk-lab
+https://gitlocalize.com/
+
+
+
+---
+
+The background image used in the slides and poster is a family tree from a Croatian genealogical book from 1740 - [BibliOdyssey CC-BY-SA-2.5](https://bibliodyssey.blogspot.com/2007/07/croatia-patachich-estates.html)
