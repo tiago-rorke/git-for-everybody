@@ -118,4 +118,4 @@
 
 33. `git merge`
 
-34. ## Turn your recipie into a webpage
+34. ## Turn your recipe into a webpage
