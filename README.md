@@ -82,6 +82,7 @@ https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities
 ### A few examples and interesting uses of Git
 
  - https://gitlocalize.com/
+ - https://github.com/pluralitybook
  - https://github.com/steeve/france.code-civil
  - https://github.com/solarpunklab/solarpunk-lab
  - https://github.com/hansgaensbauer/Well-Monitor
