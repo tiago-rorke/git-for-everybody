@@ -77,6 +77,8 @@
 	- Markdown was designed so that the plain text itself is still easy to read without needing to render the formatted version.
 	- Has become widely adopted and supported as a formatting syntax for authoring text in many contexts, such as blogging, note taking, or writing documentation.
 	- Due to its ubiquity, writing in markdown means your content will be easy to apply to many different contexts, probably well into the future, while always remaining easy to read in its plain text form.
+	- Markdown syntax is very simple - the one key point that can be confusing are line breaks:
+		- 
 
 16. ## How do you use Git?
 

@@ -57,31 +57,32 @@ No prior experience with Git, Github, Markdown or coding is necessary. This is a
 
 ## Links
 
-https://github.com/git-guides/install-git
-
-https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
-
-[Dan Shiffman the Coding Train - Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-
-https://drjekyllthemes.github.io/all
-
-https://jpalmer.dev/2021/05/interactive-git-history/
-
-
-(side note) [Aaron Swartz Documentary - The Internet's Own Boy](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)  
+- [Installing Git without GitHub Desktop](https://github.com/git-guides/install-git)
+- [Dan Shiffman the Coding Train - Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- [Jeff Palmer Git: An Interactive Development History](https://jpalmer.dev/2021/05/interactive-git-history/)
+- [Manuscript-CSS](https://github.com/taw00/manuscript-css) Write in a Text Editor. Export to Manuscript Format. For Creative Writers
+- [diff3d](https://github.com/bdlucas1/diff3d) - Visually diff 3D models
+- [Aaron Swartz Documentary - The Internet's Own Boy](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)
+https://drjekyllthemes.github.io/all  
+https://quartz.jzhao.xyz/  
 
 ### Other Repository Services
 
-gitlab
-bitbucket
-sourceforge
+- [GitLab](https://gitlab.com/)
+- [Bitbucket](https://bitbucket.org/)
+- [Sourceforge](https://sourceforge.net/)
+- [Forgejo](https://forgejo.org/)
+- [Gitea](https://about.gitea.com/)
+- [Radicle](https://radicle.xyz/)
+
+https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities
 
 ### Interesting uses of Git
 
 https://github.com/solarpunklab/solarpunk-lab
 https://gitlocalize.com/
 
-
+https://github.com/hansgaensbauer/Well-Monitor
 
 ---
 
