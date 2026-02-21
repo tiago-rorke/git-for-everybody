@@ -1,4 +1,4 @@
-![](poster/git_for_everybody-poster.png)
+![Git for Everybody Workshop Poster](poster/git_for_everybody-poster.png)
 
 # Git for Everybody
 **Intro to Git and GitHub for Non-Coders**
@@ -57,14 +57,16 @@ No prior experience with Git, Github, Markdown or coding is necessary. This is a
 
 ## Links
 
+- [Online Markdown Editor](https://onlinemarkdown.com)
 - [Installing Git without GitHub Desktop](https://github.com/git-guides/install-git)
 - [Dan Shiffman the Coding Train - Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - [Jeff Palmer Git: An Interactive Development History](https://jpalmer.dev/2021/05/interactive-git-history/)
 - [Manuscript-CSS](https://github.com/taw00/manuscript-css) Write in a Text Editor. Export to Manuscript Format. For Creative Writers
 - [diff3d](https://github.com/bdlucas1/diff3d) - Visually diff 3D models
 - [Aaron Swartz Documentary - The Internet's Own Boy](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)
-https://drjekyllthemes.github.io/all  
-https://quartz.jzhao.xyz/  
+- https://github.com/dictcp/awesome-git
+- https://drjekyllthemes.github.io/all
+- https://quartz.jzhao.xyz/
 
 ### Other Repository Services
 
@@ -77,12 +79,15 @@ https://quartz.jzhao.xyz/
 
 https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities
 
-### Interesting uses of Git
+### A few examples and interesting uses of Git
 
-https://github.com/solarpunklab/solarpunk-lab
-https://gitlocalize.com/
-
-https://github.com/hansgaensbauer/Well-Monitor
+ - https://gitlocalize.com/
+ - https://github.com/steeve/france.code-civil
+ - https://github.com/solarpunklab/solarpunk-lab
+ - https://github.com/hansgaensbauer/Well-Monitor
+ - https://github.com/oberro
+ - https://github.com/agwilt/cellocombo-arrangements
+ - https://git.redgatuna.es/photonbit/museum-of-some-things
 
 ---
 

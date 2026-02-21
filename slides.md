@@ -77,8 +77,10 @@
 	- Markdown was designed so that the plain text itself is still easy to read without needing to render the formatted version.
 	- Has become widely adopted and supported as a formatting syntax for authoring text in many contexts, such as blogging, note taking, or writing documentation.
 	- Due to its ubiquity, writing in markdown means your content will be easy to apply to many different contexts, probably well into the future, while always remaining easy to read in its plain text form.
-	- Markdown syntax is very simple - the one key point that can be confusing are line breaks:
-		- 
+	- There are many online and offline markdown editors, where you can see the formatted version of the text as you write it.  An example simple editor is [Online Markdown](https://onlinemarkdown.com/)
+	- Markdown syntax is very simple - the one key point that can be confusing are line breaks, which most editors will handle invisibly for you. When writing in plain text, if you want a line break you must either:
+		- add two spaces at the end of a line
+		- add an empty line after a paragraph
 
 16. ## How do you use Git?
 
